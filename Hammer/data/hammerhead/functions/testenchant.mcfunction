@@ -1,0 +1,1 @@
+execute if block ~ ~ ~ minecraft:enchanting_table if entity @e[type=item,distance=..1,nbt={Item:{id:"minecraft:iron_block"}}] if entity @p[level=10..] unless entity @s[nbt={Item:{tag:{display:{Lore:['{"text":"Hammerhead"}']}}}}] run function hammerhead:enchant
