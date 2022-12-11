@@ -1,6 +1,7 @@
 { 
 	"values":
 	[ 
+		"minecraft:tuff",
 		"minecraft:deepslate", 
 		"minecraft:cobbled_deepslate",
 		"minecraft:andesite", 
