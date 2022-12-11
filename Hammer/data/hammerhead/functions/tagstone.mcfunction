@@ -1,3 +1,4 @@
+tag @e[type=item,nbt={Item:{id:"minecraft:tuff"},Age:0s}] add stone
 tag @e[type=item,nbt={Item:{id:"minecraft:deepslate"},Age:0s}] add stone
 tag @e[type=item,nbt={Item:{id:"minecraft:cobbled_deepslate"},Age:0s}] add stone
 tag @e[type=item,nbt={Item:{id:"minecraft:diorite"},Age:0s}] add stone
